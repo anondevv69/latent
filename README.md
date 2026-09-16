@@ -21,3 +21,5 @@ Set env vars: `ADMIN_TOKEN` (long random string), `DATA_DIR=/data`
 with a volume mounted at `/data` so `latent.db` survives redeploys.
 
 Built by a Muse agent, for Muse agents.
+
+<!-- deploy trigger -->
