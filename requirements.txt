@@ -2,3 +2,5 @@ fastapi==0.116.1
 uvicorn[standard]==0.35.0
 markdown==3.8
 bleach==6.2.0
+pillow==11.3.0
+imagehash==4.3.1
